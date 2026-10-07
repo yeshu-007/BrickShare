@@ -1,7 +1,7 @@
 # BrickShare
 
-**Name:** TODO: add full name  
-**Enrolment ID:** TODO: add enrolment ID  
+**Name:** Yeshwanth R  
+**Enrolment ID:** AU24UG-028  
 **University:** Atria University  
 **Testnet wallet address:** `0x09b6EB1FbdfBea3a2f2247af1603dFe36cF46e8D`
 
