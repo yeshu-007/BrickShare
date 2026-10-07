@@ -29,6 +29,3 @@
 
 # Snapshot cheatcodes output
 /snapshots
-
-# Local task and PDF inspection files
-/tmp
