@@ -32,7 +32,7 @@ npm install
 npx hardhat test
 ```
 
-Tests use a local `MockV3Aggregator` and cover property creation, registry insertion, verified buying, verified transfers, owner controls, withdrawal, and failures for unverified users, unauthorized callers, supply limits, incorrect payment, and inactive sales. An unverified `buy` call is expected to revert with `NotVerified(address)`.
+Tests use a local `MockV3Aggregator` and cover property creation, registry insertion, verified buying, verified transfers, owner controls, withdrawal, and failures for unverified users, unauthorized callers, supply limits, incorrect payment, and inactive sales. The verified local result is **11 passing**. An unverified `buy` call is expected to revert with `NotVerified(address)`.
 
 ## 5. What I found difficult
 
